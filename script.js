@@ -92,7 +92,7 @@ function checkPassword(){
 
     const password = document.getElementById("password").value;
 
-    if(password === "Alshifa2026"){
+    if(password === "Alshifa2002"){
         document.getElementById("lockScreen").style.display="none";
     }else{
         alert("Wrong Password ❤️");
